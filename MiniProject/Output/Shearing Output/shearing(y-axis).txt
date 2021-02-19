@@ -1,0 +1,22 @@
+Please Enter the shape or figure required 
+1.Circle 
+2.Ellipse 
+3.N-Sided Polygon
+4.All
+3
+Enter number of sides of the Polygon: 4
+Enter coordinates: 
+0 0
+100 0
+100 75
+0 75
+Enter the Transformation required
+1.Translation 
+2.Scaling 
+3.Rotation 
+4.Shearing 
+5.Reflection
+6.Composite
+4
+Enter shearing factor in x direction: 0
+Enter shearing factor in y direction: 0.5

@@ -1,0 +1,41 @@
+Please Enter the shape or figure required 
+1.Circle 
+2.Ellipse 
+3.N-Sided Polygon
+4.All
+4
+
+Enter coordinates for circle
+
+Enter x center coordinate: 0
+Enter y center coordinate: 0
+Enter radius of the circle: 50
+
+Enter coordinates for ellipse
+ 
+Enter x center coordinate: 0
+Enter y center coordinate: 0
+Enter major axis of the ellipse: 100
+Enter minor axis of the ellipse: 40
+
+Enter coordinates for Polygon
+ 
+Enter number of sides of the Polygon: 4
+Enter coordinates: 
+50 50
+-50 50
+-50 -50
+50 -50
+Enter the Transformation required
+1.Translation 
+2.Scaling 
+3.Rotation 
+4.Shearing 
+5.Reflection
+6.Composite
+3
+Enter the rotation angle: 45
+Enter 
+1.Clockwise rotation 
+2.Anti-Clockwise rotation
+1

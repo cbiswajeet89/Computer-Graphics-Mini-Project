@@ -1,0 +1,24 @@
+Please Enter the shape or figure required 
+1.Circle 
+2.Ellipse 
+3.N-Sided Polygon
+4.All
+3
+Enter number of sides of the Polygon: 3
+Enter coordinates: 
+20 50
+120 100
+20 150
+Enter the Transformation required
+1.Translation 
+2.Scaling 
+3.Rotation 
+4.Shearing 
+5.Reflection
+6.Composite
+5
+1.Reflection about X-Axis
+2.Reflection about Y-Axis
+3.Reflection about an axis perpendicular to xy plane and passing through origin
+4.Reflection about line y=x
+4
